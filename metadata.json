@@ -1,0 +1,5 @@
+{
+  "name": "Vibeinvestor",
+  "description": "A mindful investment tracker and social platform with AI-powered insights and voice interaction.",
+  "requestFramePermissions": ["microphone"]
+}
